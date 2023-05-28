@@ -1,4 +1,4 @@
-#include "Cone.h"
+#include "cone.h"
 #include <iostream>
 #include <windows.h>
 
