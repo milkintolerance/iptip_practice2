@@ -1,4 +1,4 @@
-#include "Ocean.h"
+#include "ocean.h"
 
 #include <iostream>
 
