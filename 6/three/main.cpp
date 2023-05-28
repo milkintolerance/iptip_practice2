@@ -1,8 +1,8 @@
 #include "iostream"
 #include "windows.h"
-#include "Ocean.h"
-#include "Sea.h"
-#include "Bay.h"
+#include "ocean.h"
+#include "sea.h"
+#include "bay.h"
 
 
 int main () {
