@@ -1,4 +1,4 @@
-#include "Bay.h"
+#include "bay.h"
 
 #include <iostream>
 
