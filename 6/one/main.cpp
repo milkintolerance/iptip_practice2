@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Cone.h"
+#include "cone.h"
 #include <windows.h>
 
 using namespace std;
