@@ -1,4 +1,4 @@
-#include "Sea.h"
+#include "sea.h"
 
 #include <iostream>
 
